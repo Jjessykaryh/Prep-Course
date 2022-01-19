@@ -1,0 +1,5 @@
+ * Variables: son cajas que almacenan algun valor
+ * Strings: son cadenas de datos o caracteres de texto
+ * Funciones (argumentos, `return`): se parametrizan siempre que sea necesario para hacer mas comprensible el codigo
+ * Declaraciones `if`: son condiciones para ejecutar una peticion
+ * Valores booleanos (`true`, `false`): son valores de 0 o 1, binarios que se activan e inactivan segun la peticion
