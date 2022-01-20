@@ -1,0 +1,2 @@
+* `for`: son bucles repetitivos que cumples con condiciones verdaderas 
+* `&&`, `||`, `!`: son operadores logicos que se cumplen segun la orden dada.
