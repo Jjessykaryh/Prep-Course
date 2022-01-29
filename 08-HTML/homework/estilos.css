@@ -1,0 +1,35 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: cornsilk;
+    color: darkblue;
+    border-radius: 20px;
+    border: 5px solid darkblue;
+}
+ul#datos li{
+    display: flex;
+    justify-content: center;
+}
+div.container{
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 2px;
+}
+
+img#foto{
+    float: left;
+    width: 150px;
+    padding: 10px;
+    border: 2px solid black;
+}
+fieldset{
+    margin-bottom: 5px;
+}
+legend{
+    border: 2px solid violet;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+    background: bisque;
+}
